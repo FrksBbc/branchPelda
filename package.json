@@ -1,0 +1,20 @@
+{
+  "name": "branchpelda",
+  "version": "1.0.0",
+  "description": "branchPelda létrehozása/tanulása, gyakorlása",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FrksBbc/branchPelda.git"
+  },
+  "keywords": [],
+  "author": "Bence",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FrksBbc/branchPelda/issues"
+  },
+  "homepage": "https://github.com/FrksBbc/branchPelda#readme"
+}
