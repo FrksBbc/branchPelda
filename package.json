@@ -4,7 +4,8 @@
   "description": "branchPelda létrehozása/tanulása, gyakorlása",
   "main": "src/index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "inditas" : "nodemon src/index.js"
   },
   "repository": {
     "type": "git",
@@ -16,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/FrksBbc/branchPelda/issues"
   },
-  "homepage": "https://github.com/FrksBbc/branchPelda#readme"
+  "homepage": "https://github.com/FrksBbc/branchPelda#readme",
+  "dependencies": {
+    "nodemon": "^3.1.10"
+  }
 }
