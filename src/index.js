@@ -6,9 +6,9 @@ console.log('5. dev ágon egy változtatás történt!');
 console.log('6. dev ágon egy változtatás!');
 console.log('7. dev ágon egy változtatás!');
 console.log('8. master ágon egy változtatás! na ezzel vajon mi lesz?');
-console.log('9. dev ágon egy változtatás! na ezzel vajon mi lesz?');
+console.log('9. master ágon egy változtatás! na ezzel vajon mi lesz?');
 console.log('10. dev ágon egy változtatás! na ezzel vajon mi lesz?');
 console.log('11. dev ágon egy változtatás! na ezzel vajon mi lesz?');
 
 
-console.log('9. master ágon egy változtatás! na ezzel vajon mi lesz?');
+
