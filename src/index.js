@@ -9,6 +9,7 @@ console.log('8. master ágon egy változtatás! na ezzel vajon mi lesz?');
 console.log('9. master ágon egy változtatás! na ezzel vajon mi lesz?');
 console.log('10. dev ágon egy változtatás! na ezzel vajon mi lesz?');
 console.log('11. dev ágon egy változtatás! na ezzel vajon mi lesz?');
+console.log('12. MASTER ÁG!');
 
 
 
