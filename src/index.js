@@ -11,6 +11,8 @@ console.log('10. dev ágon egy változtatás! na ezzel vajon mi lesz?');
 console.log('11. dev ágon egy változtatás! na ezzel vajon mi lesz?');
 console.log('12. MASTER ÁG létrejött!');
 console.log('13. dev ág!');
+console.log('14. Elkezdtem valami munkát és be is fejeztem már');
+
 
 
 
